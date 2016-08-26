@@ -1,0 +1,5 @@
+C:\Proj\COMPortLogger\bin\Debug\COMPortLogger.exe.config
+C:\Proj\COMPortLogger\bin\Debug\COMPortLogger.exe
+C:\Proj\COMPortLogger\bin\Debug\COMPortLogger.pdb
+C:\Proj\COMPortLogger\obj\Debug\COMPortLogger.exe
+C:\Proj\COMPortLogger\obj\Debug\COMPortLogger.pdb
